@@ -1,12 +1,14 @@
 [
   {
-    "hobbie": "hola",
+    "name": "hola",
     "description": "palabra que se dice cuando se saluda",
-    "img": ""
+    "img": "",
+    "link": ""
   },
   {
-    "hobbie": "hola",
+    "name": "hola",
     "description": "palabra que se dice cuando se saluda",
-    "img": ""
+    "img": "",
+    "link": ""
   }
 ]
