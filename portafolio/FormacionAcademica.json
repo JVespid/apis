@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "hola",
     "description": "palabra que se dice cuando se saluda",
     "img": "",
@@ -8,6 +9,7 @@
     "other2": ""
   },
   {
+    "id": 2,
     "name": "hola",
     "description": "palabra que se dice cuando se saluda",
     "img": "",
