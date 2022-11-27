@@ -4,20 +4,32 @@
     "name": "Encriptador",
     "description": "palabra que se dice cuando se saluda",
     "img": "https://jvespid.github.io/apis//portafolio/img/RESPALDO%203%201170.jpg",
-    "link": "https://jvespid.github.io/Encriptador/"
+    "link": "https://jvespid.github.io/Encriptador/",
+    "other1Title": "",
+    "other1": "",
+    "other2Title": "",
+    "other2": ""
   },
   {
     "id": 2,
     "name": "Landing page de vacunación ",
     "description": "palabra que se dice cuando se saluda",
     "img": "https://jvespid.github.io/apis//portafolio/img/RESPALDO%203%201170.jpg",
-    "link": "https://jvespid.github.io/page-frontend-vaccinationCampaign/"
+    "link": "https://jvespid.github.io/page-frontend-vaccinationCampaign/",
+    "other1Title": "",
+    "other1": "",
+    "other2Title": "",
+    "other2": ""
   },
   {
     "id": 3,
     "name": "Pokedex",
     "description": "palabra que se dice cuando se saluda",
     "img": "https://jvespid.github.io/apis//portafolio/img/RESPALDO%203%201170.jpg",
-    "link": "https://jvespid.github.io/pokedex-Frontend/"
+    "link": "https://jvespid.github.io/pokedex-Frontend/",
+    "other1Title": "",
+    "other1": "",
+    "other2Title": "",
+    "other2": ""
   }
 ]

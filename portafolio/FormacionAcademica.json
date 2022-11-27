@@ -5,7 +5,9 @@
     "description": "palabra que se dice cuando se saluda",
     "img": "https://jvespid.github.io/apis//portafolio/img/rectangular.jpeg",
     "link": "",
+    "other1Title": "",
     "other1": "",
+    "other2Title": "",
     "other2": ""
   },
   {
@@ -14,7 +16,9 @@
     "description": "palabra que se dice cuando se saluda",
     "img": "https://jvespid.github.io/apis//portafolio/img/rectangular.jpeg",
     "link": "",
+    "other1Title": "",
     "other1": "",
+    "other2Title": "",
     "other2": ""
   }
 ]
