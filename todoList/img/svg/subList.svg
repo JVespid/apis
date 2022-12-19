@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200pt" height="1200pt" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <path d="m238.02 99.172h956.56v89.531h-956.56z"/>
+  <path d="m238.02 406.61h956.56v89.531h-956.56z"/>
+  <path d="m595.04 704.13h598.44v89.531h-598.44z"/>
+  <path d="m595.04 1011.6h598.44v89.531h-598.44z"/>
+  <path d="m0 89.258h119.38v118.85h-119.38z"/>
+  <path d="m0 386.78h119.38v118.79h-119.38z"/>
+  <path d="m357.02 694.21h119.38v118.85h-119.38z"/>
+  <path d="m357.02 991.73h119.38v118.85h-119.38z"/>
+ </g>
+</svg>
